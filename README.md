@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A gamified tourism app called Traveloute, encouraging travelers to explore hidden gems in Sri Lanka through GPS-based star rewards and local business engagement.<br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Mobile or web-based social impact projects, especially ones involving community tourism, sustainability, or accessibility tech.<br>🌱 I’m currently learning<br>Advanced PHP MVC architecture, Tailwind UI tricks, and building deployable apps using Firebase & Node.js.<br>⚡ Fun fact<br> Try telling me something I'll be the person to forget it the next minute and start another whole different conversation.
+🔭 I’m currently working on<br>A gamified tourism app called Traveloute, encouraging travelers to explore hidden gems in Sri Lanka through GPS-based star rewards and local business engagement.<br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Mobile or web-based social impact projects, especially ones involving community tourism, sustainability, or accessibility tech.<br>🌱 I’m currently learning<br>Laravel framework, Tailwind UI tricks, and building deployable apps using Firebase & Node.js.<br>⚡ Fun fact<br> Try telling me something I'll be the person to forget it the next minute and start another whole different conversation.
 
 
 ## 🌐 Socials:
