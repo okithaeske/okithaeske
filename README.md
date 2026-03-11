@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Okitha+%F0%9F%91%8B;Backend+Engineer+%7C+Integration+Dev;Azure+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+things+that+scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github.com/okithaeske/okithaeske/blob/main/banner.svg" alt="Okitha Kaluthotage - Cloud Engineer" width="100%"/>
+</p>
 
 # 💫 About Me:
 🔭 Currently working on<br>A cloud-based enterprise integration platform connecting financial systems using Azure Logic Apps, Azure Functions, and TypeScript - focused on automation, reliability, and scalable architecture.<br>🧑‍🤝‍🧑 Looking to collaborate on<br>Full-stack or cloud-native projects involving API integrations, backend automation, or Azure infrastructure - especially where clean architecture and real business impact matter.<br>🌱 Currently learning <br>Azure cloud infrastructure (Bicep, APIM, DevOps pipelines), advanced TypeScript patterns, and enterprise-grade CI/CD practices.<br>⚡ Fun fact <br>Try telling me something I'll be the person to forget it the next minute and start another whole different conversation.
