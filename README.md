@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Okitha+%F0%9F%91%8B;Cloud+Engineer+%7C+Integration+Dev;Azure+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+things+that+scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 Currently working on<br>A cloud-based enterprise integration platform connecting financial systems using Azure Logic Apps, Azure Functions, and TypeScript - focused on automation, reliability, and scalable architecture.<br>🧑‍🤝‍🧑 Looking to collaborate on<br>Full-stack or cloud-native projects involving API integrations, backend automation, or Azure infrastructure - especially where clean architecture and real business impact matter.<br>🌱 Currently learning <br>Azure cloud infrastructure (Bicep, APIM, DevOps pipelines), advanced TypeScript patterns, and enterprise-grade CI/CD practices.<br>⚡ Fun fact <br>Try telling me something I'll be the person to forget it the next minute and start another whole different conversation.
 
@@ -21,6 +23,20 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=okithaeske&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=okithaeske&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/okithaeske/okithaeske/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/okithaeske/okithaeske/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/okithaeske/okithaeske/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=okithaeske&icon=0&color=0)](https://visitcount.itsvg.in)
